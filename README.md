@@ -1,6 +1,6 @@
 # My travel journal
 
-Highlight some places that have been travel
+A place where you can write and document about the experience you had during your trips
 
 ## Features
 
